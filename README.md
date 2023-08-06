@@ -1,6 +1,8 @@
 ﻿# Django Image Gallery
 
-This project was my fist full stack application and it is developed in collaboration with two other students. (See credits below.) Image gallery uses [SQLite](https://www.sqlite.org/index.html) as a database and it is created with [Django ORM](https://opensource.com/article/17/11/django-orm). Web site is styled using [Bootstrap](https://getbootstrap.com/).
+This project was my fist full stack application and it is developed in collaboration with two other students. (See credits below.) Image gallery uses [SQLite](https://www.sqlite.org/index.html) as a database and it is created with [Django ORM](https://opensource.com/article/17/11/django-orm). Web site is styled using [Bootstrap](https://getbootstrap.com/).  
+
+See the file [tietokannat_kuva-albumisovelluksessa.pdf](https://github.com/nina20126/Django_Image_Gallery/blob/main/tietokannat_kuva-albumisovelluksessa.pdf) for detailed documentation (in Finnish language only.)
 
 ### Features
 
